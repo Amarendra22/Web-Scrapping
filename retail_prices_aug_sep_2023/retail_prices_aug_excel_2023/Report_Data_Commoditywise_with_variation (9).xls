@@ -1,0 +1,85 @@
+<div id="Panel1" style="height:78px;left: -2px; position: relative;   top: 0px; width: 1800px;">
+	 <div class=test1><table style=margin:auto;><thead><tr><td><div><div style='width:20%; float:left;'>&nbsp;</div><div style='width:60%; float:left; text-align:center;'><b>Department of Consumer Affairs&nbsp( Price Monitoring Division)</b></div><table width=95% align=center><tr><td align=left><font size=3><b>Date&nbsp;&nbsp;10/08/2023 </font> </b></td><td width=100% align=center><font size=3 color=black><center><strong>Daily Retail Prices Of Essential Commodities</strong></center></font></td><td align=right><font size=4 > <b>Unit:&nbsp;(&#8377;/Kg.)</b></font></td></tr></table></td></tr></thead><tbody><tr><td><div class=MyCssClass><div>
+		<table cellspacing="0" align="Center" rules="all" border="1" id="gv0" style="border-collapse:collapse;">
+			<thead>
+				<tr>
+					<th scope="col">States/UTs</th><th scope="col">Rice</th><th scope="col">Wheat</th><th scope="col">Atta (Wheat)</th><th scope="col">Gram Dal</th><th scope="col">Tur/Arhar Dal</th><th scope="col">Urad Dal</th><th scope="col">Moong Dal</th><th scope="col">Masoor Dal</th><th scope="col">Sugar</th><th scope="col">Milk @</th><th scope="col">Groundnut Oil (Packed)</th><th scope="col">Mustard Oil (Packed)</th><th scope="col">Vanaspati (Packed)</th><th scope="col">Soya Oil (Packed)</th><th scope="col">Sunflower Oil (Packed)</th><th scope="col">Palm Oil (Packed)</th><th scope="col">Gur</th><th scope="col">Tea Loose</th><th scope="col">Salt Pack (Iodised)</th><th scope="col">Potato</th><th scope="col">Onion</th><th scope="col">Tomato</th>
+				</tr>
+			</thead><tbody>
+				<tr align="left">
+					<td align="right" style="background-color:Gray;font-weight:bold;"> Average Price</td><td>41.31</td><td>29.78</td><td>34.96</td><td>75.79</td><td>136.18</td><td>114.75</td><td>111.09</td><td>92.16</td><td>43.18</td><td>58.14</td><td>190.77</td><td>141.01</td><td>129.86</td><td>129.8</td><td>129.42</td><td>104</td><td>51.89</td><td>277.01</td><td>22.08</td><td>24.29</td><td>27.91</td><td>129.39</td>
+				</tr><tr align="left">
+					<td align="right" style="background-color:Gray;font-weight:bold;"> Maximum Price</td><td>65</td><td>51</td><td>67</td><td>132</td><td>180</td><td>156</td><td>165</td><td>145</td><td>70</td><td>80</td><td>270</td><td>258</td><td>220</td><td>202</td><td>244</td><td>175</td><td>143</td><td>558</td><td>37</td><td>60</td><td>63</td><td>250</td>
+				</tr><tr align="left">
+					<td align="right" style="background-color:Gray;font-weight:bold;"> Minimum Price</td><td>25</td><td>21</td><td>24</td><td>54</td><td>73</td><td>65</td><td>75</td><td>65</td><td>36</td><td>40</td><td>130</td><td>108</td><td>93</td><td>100</td><td>103</td><td>83</td><td>34</td><td>170</td><td>9</td><td>11</td><td>10</td><td>40</td>
+				</tr><tr align="left">
+					<td align="right" style="background-color:Gray;font-weight:bold;"> Modal Price</td><td>38</td><td>25</td><td>35</td><td>70</td><td>140</td><td>110</td><td>110</td><td>100</td><td>42</td><td>60</td><td>200</td><td>130</td><td>120</td><td>120</td><td>122</td><td>100</td><td>50</td><td>240</td><td>27</td><td>20</td><td>27.5</td><td>120</td>
+				</tr><tr align="left">
+					<td>Andaman and Nicobar</td><td>41</td><td>&nbsp;</td><td>66</td><td>84.67</td><td>149.33</td><td>140.67</td><td>127.67</td><td>99.67</td><td>53</td><td>70.67</td><td>236.5</td><td>199.33</td><td>198.33</td><td>&nbsp;</td><td>146.67</td><td>128</td><td>75.33</td><td>308.33</td><td>20.33</td><td>46.67</td><td>48.33</td><td>200</td>
+				</tr><tr align="left">
+					<td>Andhra Pradesh</td><td>53</td><td>41</td><td>44.4</td><td>71.6</td><td>147.6</td><td>120.6</td><td>115.4</td><td>101.8</td><td>42.2</td><td>58.2</td><td>177.8</td><td>195.4</td><td>116.8</td><td>175</td><td>118.2</td><td>99</td><td>57.8</td><td>325</td><td>21.4</td><td>31.6</td><td>27</td><td>103.6</td>
+				</tr><tr align="left">
+					<td>Arunachal pradesh</td><td>37.67</td><td>42</td><td>39.33</td><td>91</td><td>137.67</td><td>121</td><td>120</td><td>102.33</td><td>51.5</td><td>73</td><td>&nbsp;</td><td>143.5</td><td>120</td><td>136.5</td><td>200</td><td>&nbsp;</td><td>70</td><td>325</td><td>16.5</td><td>23</td><td>38</td><td>140</td>
+				</tr><tr align="left">
+					<td>Assam</td><td>41.27</td><td>31.36</td><td>36.81</td><td>76.19</td><td>130.68</td><td>106.74</td><td>109.46</td><td>90.27</td><td>45</td><td>69.12</td><td>194.2</td><td>146.69</td><td>137.76</td><td>140.04</td><td>154.52</td><td>116.39</td><td>57.19</td><td>256.12</td><td>13.54</td><td>22.81</td><td>31.38</td><td>95.1</td>
+				</tr><tr align="left">
+					<td>Bihar</td><td>37.39</td><td>26.06</td><td>32.64</td><td>69.06</td><td>130.5</td><td>110.22</td><td>106.72</td><td>78.28</td><td>42.97</td><td>55.31</td><td>190.47</td><td>139</td><td>126.83</td><td>131.64</td><td>171.63</td><td>111.79</td><td>47.19</td><td>270.14</td><td>22.64</td><td>19.33</td><td>25.14</td><td>141.28</td>
+				</tr><tr align="left">
+					<td>Chandigarh</td><td>41</td><td>30</td><td>35</td><td>74</td><td>132</td><td>112</td><td>110</td><td>93</td><td>43</td><td>58</td><td>190</td><td>154</td><td>130</td><td>136</td><td>156</td><td>112</td><td>51</td><td>275</td><td>27</td><td>25</td><td>25</td><td>152</td>
+				</tr><tr align="left">
+					<td>Chhattisgarh</td><td>37.44</td><td>33.44</td><td>36.22</td><td>74.44</td><td>132.67</td><td>102.33</td><td>104.89</td><td>88.44</td><td>41.11</td><td>58.22</td><td>192.56</td><td>147.22</td><td>127.11</td><td>129.44</td><td>147.88</td><td>118.22</td><td>48.33</td><td>284.22</td><td>23.22</td><td>23.22</td><td>25.11</td><td>131.67</td>
+				</tr><tr align="left">
+					<td>Delhi</td><td>39</td><td>28</td><td>31</td><td>75</td><td>152</td><td>128</td><td>114</td><td>87</td><td>41</td><td>53</td><td>216</td><td>139</td><td>130</td><td>131</td><td>144</td><td>106</td><td>60</td><td>243</td><td>26</td><td>27</td><td>30</td><td>140</td>
+				</tr><tr align="left">
+					<td>DNH and DD</td><td>44.67</td><td>38.67</td><td>41.33</td><td>77.33</td><td>146.33</td><td>129</td><td>119.67</td><td>94.67</td><td>41</td><td>64.67</td><td>207.33</td><td>154.33</td><td>140.33</td><td>137.67</td><td>132.33</td><td>100.33</td><td>67.67</td><td>350</td><td>27</td><td>22.33</td><td>25.67</td><td>148.33</td>
+				</tr><tr align="left">
+					<td>Goa</td><td>45.5</td><td>43</td><td>41.5</td><td>77.5</td><td>157.5</td><td>126</td><td>123.5</td><td>96.5</td><td>42</td><td>57.5</td><td>216</td><td>161</td><td>141</td><td>152</td><td>120</td><td>100</td><td>55</td><td>315.5</td><td>24.5</td><td>33.5</td><td>32</td><td>113</td>
+				</tr><tr align="left">
+					<td>Gujarat</td><td>36.17</td><td>33.14</td><td>37.43</td><td>78.57</td><td>137.86</td><td>120.57</td><td>108.14</td><td>95.86</td><td>41.67</td><td>57.33</td><td>195.29</td><td>155.71</td><td>142.57</td><td>152.57</td><td>141.43</td><td>106.86</td><td>50.33</td><td>276.5</td><td>14.33</td><td>23</td><td>22.67</td><td>128.67</td>
+				</tr><tr align="left">
+					<td>Haryana</td><td>40</td><td>25.75</td><td>32.75</td><td>66.75</td><td>127.25</td><td>101</td><td>100.25</td><td>92.75</td><td>42.25</td><td>58.75</td><td>187.25</td><td>143.75</td><td>132.5</td><td>129</td><td>165.5</td><td>114.5</td><td>45.25</td><td>235</td><td>25.75</td><td>18</td><td>24</td><td>145.25</td>
+				</tr><tr align="left">
+					<td>Himachal Pradesh</td><td>35.75</td><td>21</td><td>31.58</td><td>71.08</td><td>141.25</td><td>119.33</td><td>112.67</td><td>87.08</td><td>44.08</td><td>53.08</td><td>218.75</td><td>162.25</td><td>143.75</td><td>133.5</td><td>152.8</td><td>121</td><td>46</td><td>256.08</td><td>27.58</td><td>26.58</td><td>32.92</td><td>159.25</td>
+				</tr><tr align="left">
+					<td>Jammu and Kashmir</td><td>37.67</td><td>31</td><td>41</td><td>85</td><td>126.67</td><td>118.33</td><td>116</td><td>100</td><td>51.67</td><td>47.67</td><td>243</td><td>157</td><td>148</td><td>142</td><td>169.67</td><td>125</td><td>49</td><td>319.67</td><td>26.67</td><td>27.67</td><td>33.67</td><td>107.33</td>
+				</tr><tr align="left">
+					<td>Jharkhand</td><td>37.37</td><td>30.44</td><td>34.53</td><td>73.16</td><td>135</td><td>106.89</td><td>105.74</td><td>79.26</td><td>43.56</td><td>57.5</td><td>187.92</td><td>141.68</td><td>124.05</td><td>134.06</td><td>155.29</td><td>106.94</td><td>47.5</td><td>287.59</td><td>23.65</td><td>19.63</td><td>24.05</td><td>137.11</td>
+				</tr><tr align="left">
+					<td>Karnataka</td><td>54.03</td><td>41.71</td><td>45.19</td><td>85.81</td><td>148</td><td>131.13</td><td>120.58</td><td>104.74</td><td>41.58</td><td>49.48</td><td>180.71</td><td>172.03</td><td>122.39</td><td>141.7</td><td>124.84</td><td>100.06</td><td>51.52</td><td>298.32</td><td>19.77</td><td>30.71</td><td>28.52</td><td>102</td>
+				</tr><tr align="left">
+					<td>Kerala</td><td>50.92</td><td>43.15</td><td>46.92</td><td>94.23</td><td>157.46</td><td>138.46</td><td>131.62</td><td>108.31</td><td>42.54</td><td>54.08</td><td>224.17</td><td>193.1</td><td>155.38</td><td>&nbsp;</td><td>121.77</td><td>100.75</td><td>61.54</td><td>232.62</td><td>14.08</td><td>35</td><td>28.08</td><td>98.62</td>
+				</tr><tr align="left">
+					<td>Madhya Pradesh</td><td>35.98</td><td>27.29</td><td>32.67</td><td>72.76</td><td>138.12</td><td>105.45</td><td>105.5</td><td>90.14</td><td>41.88</td><td>57.69</td><td>190</td><td>135.17</td><td>120.24</td><td>115.4</td><td>145.41</td><td>113.57</td><td>47.1</td><td>241.64</td><td>18.86</td><td>20.29</td><td>21.64</td><td>130.86</td>
+				</tr><tr align="left">
+					<td>Maharashtra</td><td>47.11</td><td>37.68</td><td>42.74</td><td>72.63</td><td>151.11</td><td>118.42</td><td>116.84</td><td>95.74</td><td>42.89</td><td>57.21</td><td>189.53</td><td>161.44</td><td>130.68</td><td>115.05</td><td>129.21</td><td>106.44</td><td>52.05</td><td>291.53</td><td>23.58</td><td>27.95</td><td>24.74</td><td>127.63</td>
+				</tr><tr align="left">
+					<td>Meghalaya</td><td>37.7</td><td>37.8</td><td>37.8</td><td>78</td><td>128.38</td><td>127.33</td><td>112.44</td><td>90.1</td><td>45.9</td><td>72.6</td><td>143</td><td>135.8</td><td>142.75</td><td>136.9</td><td>180</td><td>138.6</td><td>76.67</td><td>359.3</td><td>22.3</td><td>26.2</td><td>38.7</td><td>85.2</td>
+				</tr><tr align="left">
+					<td>Mizoram</td><td>46.9</td><td>40.86</td><td>44.33</td><td>99.63</td><td>125.5</td><td>122</td><td>118.8</td><td>105</td><td>50</td><td>75</td><td>187</td><td>194.44</td><td>176.75</td><td>148.4</td><td>179.67</td><td>134</td><td>101.33</td><td>493.75</td><td>28.2</td><td>37.8</td><td>49.2</td><td>75.11</td>
+				</tr><tr align="left">
+					<td>Nagaland</td><td>40.56</td><td>40.14</td><td>47.88</td><td>97.92</td><td>130.25</td><td>120.88</td><td>122.67</td><td>96.44</td><td>50.69</td><td>69.93</td><td>200</td><td>145.63</td><td>178.33</td><td>154.88</td><td>186</td><td>137.5</td><td>75.56</td><td>307.67</td><td>17.56</td><td>28.81</td><td>46.88</td><td>117.25</td>
+				</tr><tr align="left">
+					<td>Odisha</td><td>36</td><td>37.69</td><td>39.71</td><td>69.77</td><td>140.09</td><td>109.27</td><td>106.86</td><td>78.55</td><td>43.09</td><td>52.05</td><td>172.4</td><td>137.91</td><td>118.7</td><td>135.5</td><td>120.32</td><td>97</td><td>50.32</td><td>278.44</td><td>26.36</td><td>20.14</td><td>26.23</td><td>127.09</td>
+				</tr><tr align="left">
+					<td>Punjab</td><td>37</td><td>24.45</td><td>29.09</td><td>76.36</td><td>142.82</td><td>115.91</td><td>108</td><td>94.64</td><td>42.64</td><td>57.45</td><td>199.4</td><td>131.09</td><td>126.18</td><td>121.09</td><td>146.7</td><td>106.13</td><td>53.09</td><td>278.73</td><td>26.55</td><td>19.45</td><td>27.55</td><td>149.45</td>
+				</tr><tr align="left">
+					<td>Rajasthan</td><td>38.66</td><td>29.9</td><td>32.79</td><td>71.28</td><td>113.48</td><td>105.24</td><td>101</td><td>89.55</td><td>41.48</td><td>51.52</td><td>184</td><td>154.07</td><td>128.89</td><td>141.43</td><td>163.32</td><td>133.33</td><td>43.1</td><td>301.45</td><td>20.07</td><td>20.93</td><td>22.38</td><td>155.64</td>
+				</tr><tr align="left">
+					<td>Sikkim</td><td>51.4</td><td>35.8</td><td>43</td><td>81</td><td>131.4</td><td>131.6</td><td>123.6</td><td>104</td><td>48.6</td><td>63.4</td><td>&nbsp;</td><td>180.8</td><td>136.2</td><td>158.5</td><td>195</td><td>&nbsp;</td><td>57.2</td><td>446</td><td>19</td><td>35.2</td><td>37</td><td>133.6</td>
+				</tr><tr align="left">
+					<td>Tamil Nadu</td><td>56</td><td>43.26</td><td>51.56</td><td>76.32</td><td>154.2</td><td>130.04</td><td>117.6</td><td>89.96</td><td>41.84</td><td>45.24</td><td>210.48</td><td>187.68</td><td>126.04</td><td>&nbsp;</td><td>117.12</td><td>94.84</td><td>53.16</td><td>286.61</td><td>23.92</td><td>34.32</td><td>28.52</td><td>81.92</td>
+				</tr><tr align="left">
+					<td>Telangana</td><td>48.2</td><td>38.2</td><td>42.6</td><td>69.2</td><td>130</td><td>114.2</td><td>106.1</td><td>90.1</td><td>39.5</td><td>63</td><td>168.1</td><td>174</td><td>117.8</td><td>152.17</td><td>119.2</td><td>101</td><td>54.2</td><td>295.9</td><td>18.4</td><td>29.6</td><td>27.8</td><td>108.4</td>
+				</tr><tr align="left">
+					<td>Tripura</td><td>38</td><td>&nbsp;</td><td>36</td><td>76</td><td>122.33</td><td>114.33</td><td>106.5</td><td>108.5</td><td>45.25</td><td>69.75</td><td>&nbsp;</td><td>145.75</td><td>126</td><td>134.75</td><td>169.25</td><td>110.5</td><td>68.25</td><td>213.75</td><td>11</td><td>23.5</td><td>32.5</td><td>76.75</td>
+				</tr><tr align="left">
+					<td>Uttar Pradesh</td><td>36.47</td><td>25.59</td><td>31.65</td><td>71.97</td><td>131.88</td><td>110.35</td><td>107.07</td><td>91.32</td><td>41.99</td><td>62.15</td><td>192.84</td><td>142.68</td><td>131.15</td><td>136.32</td><td>164.16</td><td>114.47</td><td>47.2</td><td>243.65</td><td>26.71</td><td>20.13</td><td>25.57</td><td>154.28</td>
+				</tr><tr align="left">
+					<td>Uttarakhand</td><td>35.5</td><td>25.75</td><td>32.5</td><td>84</td><td>124.75</td><td>106</td><td>110.5</td><td>101.5</td><td>41.25</td><td>62.5</td><td>163</td><td>140.5</td><td>140</td><td>143</td><td>155</td><td>114</td><td>50.75</td><td>263.25</td><td>28.25</td><td>21.75</td><td>25</td><td>154.5</td>
+				</tr><tr align="left">
+					<td>West Bengal</td><td>43.13</td><td>29.6</td><td>37.61</td><td>75.26</td><td>132.48</td><td>114.14</td><td>117.3</td><td>105.17</td><td>43.67</td><td>54.43</td><td>202.7</td><td>133.29</td><td>115.1</td><td>118.48</td><td>135.67</td><td>102.84</td><td>51.43</td><td>277.14</td><td>21.76</td><td>21.14</td><td>27.76</td><td>161.81</td>
+				</tr>
+			</tbody>
+		</table>
+	</div></div></td></tr></tbody><tfoot><tr><td><div><table style=width:100%;><tr><td align=left><b>Source:-&nbsp;&nbsp;</b><I>State civil supplies Dept.</I></td><td><b>Note:-</b> All India Consumption Weighted Average Prices of Oils w.e.f 23-Feb-2022 and Wheat and Atta w.e.f 25-Feb-2023  </td><td align=right>NR&nbsp;-&gt Not Reported&nbsp;&nbsp;<td></tr><tr><td colspan=2 style=text-align:center;><b>Developed by:-&nbsp;&nbsp;</b>National Informatics Centre(NIC)</td><tr></table></div></td></tr></tfoot></table></div><div style=page-break-after:always></div>
+</div>
