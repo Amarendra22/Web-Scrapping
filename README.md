@@ -1,6 +1,7 @@
 # Project Overview:
 
-### Developed an automated data collection and processing pipeline to scrape daily retail prices of essential commodities from the Department of Consumer Affairs (Price Monitoring Division) for August and September 2023. The project efficiently transforms the collected data into Excel and CSV formats for further analysis.
+### Developed an automated data collection and processing pipeline to scrape daily retail prices of essential commodities from the Department of Consumer Affairs (Price Monitoring Division) for August and September 2023. The project efficiently transforms the collected data into Excel and CSV formats for further analysis. 
+Website scrapped: "https://fcainfoweb.nic.in/reports/report_menu_web.aspx"
 
 # Key Features:
 
